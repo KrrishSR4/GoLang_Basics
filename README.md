@@ -4,6 +4,8 @@
 
 Use "go help <command>" for more information about a command.
 
+
+```
 Additional help topics:
 
         buildconstraint build constraints
@@ -27,5 +29,3 @@ Additional help topics:
         vcs             controlling version control with GOVCS
 
 Use "go help <topic>" for more information about that topic
-
-```
