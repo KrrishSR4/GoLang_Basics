@@ -136,7 +136,7 @@ go help test
 ## Repository Structure
 
 ```text
-go-programming/
+GoLang_Basics/
 |
 +-- 01-go/
 +-- 02-go-syntax/
