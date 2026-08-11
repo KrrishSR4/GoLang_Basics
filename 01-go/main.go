@@ -1,3 +1,5 @@
+// First Go Program
+
 package main
 
 import "fmt" 
