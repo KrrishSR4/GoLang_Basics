@@ -1,4 +1,4 @@
-// Lexer in Go
+// Lexer in Go & Types
 
 
 package main
